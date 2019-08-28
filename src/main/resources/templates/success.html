@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" >
+<head>
+    <meta charset="UTF-8">
+    <meta content="text/html;charset=UTF-8"/>
+    <title>跨越长城</title>
+
+</head>
+<body>
+<div>
+    <h1>Demo示例</h1>
+    <hr>
+    <h2 th:text="${msg}">这是h2</h2>
+    <table >
+        <tbody>
+        <!-- th循环遍历传来的参数 -->
+        <tr th:each="str : ${lists}" >
+            <th th:text="${str}" ></th>
+        </tr>
+        </tbody>
+    </table>
+</div>
+<div th:text="${hello}">这是没有引擎展示的数据</div>
+</body>
+</html>

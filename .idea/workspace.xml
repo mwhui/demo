@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb90f969-c128-459d-9339-2cdd9e8ddee3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Maven\apache-maven-3.3.9\repository" />
+        <option name="mavenHome" value="C:/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PUDYP0khJKI3jORRkxEism4EoM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources\static\asserts\css" />
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources\templates" />
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources" />
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\java\com\wenhui" />
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources\templates\emp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wenhui.service" />
+      <recent name="com.wenhui.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources\templates" />
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources\templates\emp" />
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources\resources" />
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources\static" />
+      <recent name="D:\Git\project-practice\springboot-web-demo\src\main\resources\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootWebDemoApplication">
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringbootWebDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-web-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wenhui.SpringbootWebDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Spring Boot.SpringbootWebDemoApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb90f969-c128-459d-9339-2cdd9e8ddee3" name="Default Changelist" comment="" />
+      <created>1565919827608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565919827608</updated>
+      <workItem from="1565919831682" duration="6737000" />
+      <workItem from="1565928067995" duration="364000" />
+      <workItem from="1565928459646" duration="609000" />
+      <workItem from="1565933601883" duration="2464000" />
+      <workItem from="1565936110260" duration="37910000" />
+      <workItem from="1566117383617" duration="13346000" />
+      <workItem from="1566179135855" duration="21987000" />
+      <workItem from="1566261305279" duration="2476000" />
+      <workItem from="1566263918177" duration="242000" />
+      <workItem from="1566264176078" duration="1882000" />
+      <workItem from="1566266078860" duration="4446000" />
+      <workItem from="1566270616312" duration="7705000" />
+      <workItem from="1566312047915" duration="1090000" />
+      <workItem from="1566313204336" duration="6729000" />
+      <workItem from="1566365311389" duration="14602000" />
+      <workItem from="1566383172545" duration="51000" />
+      <workItem from="1566398086466" duration="9357000" />
+      <workItem from="1566436556098" duration="4223000" />
+      <workItem from="1566441232788" duration="20006000" />
+      <workItem from="1566486173245" duration="148000" />
+      <workItem from="1566486629569" duration="788000" />
+      <workItem from="1566490157123" duration="947000" />
+      <workItem from="1566520075625" duration="11957000" />
+      <workItem from="1566556241046" duration="108000" />
+      <workItem from="1566782585524" duration="24064000" />
+      <workItem from="1566857004837" duration="4050000" />
+      <workItem from="1566866217275" duration="1299000" />
+      <workItem from="1566965125336" duration="2021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
